@@ -102,3 +102,8 @@ C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestN
 C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\obj\Debug\net6.0\TestNinja.Tests.pdb
 C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\obj\Debug\net6.0\TestNinja.Tests.genruntimeconfig.cache
 C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\obj\Debug\net6.0\ref\TestNinja.Tests.dll
+C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\bin\Debug\net6.0\Moq.dll
+C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wisdo\Downloads\source-code-starter\source-code-starter\TestNinja\TestNinja.Tests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

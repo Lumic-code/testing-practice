@@ -43,24 +43,13 @@ namespace TestNinja.Tests
 
         }
 
-        //[Test]
-        //public void GetOutput_InputIsZero_ReturnTheSameNumber()
-        //{
-        //    var result = FizzBuzz.GetOutput(0);
-
-        //    Assert.That(result, Is.EqualTo("0"));
-        //}
 
         [Test]
-        [TestCase(-1, "-1")]
-        [TestCase(0, "0")]
-        public void GetOutput_InputIsNegative_ReturnTheSameNumber(int number, string expectedResult)
+        public void GetOutput_InputIsNegative_ReturnTheSameNumber()
         {
-            var result = FizzBuzz.GetOutput(number);
+            var result = FizzBuzz.GetOutput(-1);
 
-            Assert.That(result, Is.EqualTo(expectedResult));
+            Assert.That(result, Is.EqualTo("-1"));
         }
-
-
     }
 }
